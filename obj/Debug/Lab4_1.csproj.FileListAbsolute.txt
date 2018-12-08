@@ -1,0 +1,6 @@
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_4\Lab4_1\Lab4_1\bin\Debug\Lab4_1.exe.config
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_4\Lab4_1\Lab4_1\bin\Debug\Lab4_1.exe
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_4\Lab4_1\Lab4_1\bin\Debug\Lab4_1.pdb
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_4\Lab4_1\Lab4_1\obj\Debug\Lab4_1.csprojResolveAssemblyReference.cache
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_4\Lab4_1\Lab4_1\obj\Debug\Lab4_1.exe
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Lab_4\Lab4_1\Lab4_1\obj\Debug\Lab4_1.pdb
